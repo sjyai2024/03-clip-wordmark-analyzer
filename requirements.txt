@@ -1,0 +1,7 @@
+streamlit>=1.42,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+torch>=2.2,<3
+transformers>=4.45,<5
+pillow>=10,<12
+safetensors>=0.4,<1

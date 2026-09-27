@@ -1,0 +1,16 @@
+{
+  "App_Version": "1.1",
+  "NLI_Model": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+  "Prompt_Policy": "Aaker English original",
+  "Primary_Score": "P(entailment)",
+  "N_Units": 240,
+  "N_Brands": 39,
+  "N_Pairs": 10080,
+  "Device": "cpu",
+  "Aaker_Structure": "42 traits -> 15 facets -> 5 dimensions",
+  "FontCLIP_Reference": "A only (본분석)",
+  "FontCLIP_Source": "bundled current 03B A-only run",
+  "RQ1_Common_Brands": 31,
+  "Permutation_N": 10000,
+  "Primary_Congruence_Diagnostic": "42-trait profile Pearson; same-brand > permuted-brand"
+}
